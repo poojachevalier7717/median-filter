@@ -1,6 +1,6 @@
 {
   "name": "median-filter",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Applies a sliding window median filter to one-dimensional signal data for noise reduction.",
   "type": "module",
   "main": "src/index.js",
